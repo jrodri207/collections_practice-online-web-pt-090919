@@ -15,5 +15,5 @@ def sort_array_char_count(array)
 end 
 
 def swap_elements(array)
-  array.rotate(0)
+  array.swap(1, 2)
 end 
